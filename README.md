@@ -1,2 +1,2 @@
 # gitIssue
-reolution de issue #1
+resolve de issue #1
